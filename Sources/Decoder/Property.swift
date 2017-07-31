@@ -10,4 +10,3 @@ struct Property: Codable {
        case typeName = "key.typename"
     }
 }
-~           
